@@ -1,0 +1,1 @@
+Download FFmpeg 7.1.1 from https://www.ffmpeg.org/download.html and extract its contents into your project environment.
