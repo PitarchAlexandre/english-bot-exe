@@ -155,7 +155,6 @@ ENV_AI_MODEL=gemini-2.0-flash
 Get a free key here :  
 🔗 https://aistudio.google.com/app/apikey *(Google account required)*
 
-Translated with DeepL.com (free version)
 ---
 
 ### 6. Run the app
