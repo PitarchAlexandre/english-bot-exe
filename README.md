@@ -1,6 +1,6 @@
 # 🎧 English Bot – IELTS Oral Exam Practice (Fr)
 
-[English version here](#🌐-english-bot-ielts-oral-exam-practice)
+[English version here](#english-bot-ielts-oral-exam-practice)
 
 Cette application permet aux étudiants de s'entraîner à l'examen oral de l'IELTS (General English) en simulant des sessions avec un bot vocal. L'objectif est de mettre les utilisateurs en confiance et de les aider à améliorer leur fluidité, leur vocabulaire, leur grammaire et la structuration de leurs réponses. L'application utilise la bibliothèque OpenAI pour évaluer le niveau de l'élève en enregistrant et analysant les réponses et les questions posées.
 
@@ -89,7 +89,7 @@ N'hésite pas à me contacter ou à ouvrir un "issues" si tu souhaites suggérer
 
 ---
 
-# 🌐 English Bot IELTS Oral Exam Practice
+# English Bot IELTS Oral Exam Practice
 
 This application enables students to practise for the IELTS (General English) oral exam by simulating sessions with a voice bot. The aim is to give users confidence and help them improve their fluency, vocabulary, grammar and the structure of their answers. The application uses the OpenAI library to assess the student's level by recording and analysing the answers and questions asked.
 
