@@ -6,7 +6,7 @@ Cette application permet aux étudiants de s'entraîner à l'examen oral de l'IE
 
 L'outil utilise la reconnaissance vocale de Whisper pour transcrire les réponses et propose des voix personnalisées via edge-tts, permettant à l'utilisateur de choisir différents accents et voix (homme, femme).
 
-
+> ⚠️ Il est important d'utiliser la version de python 3.10.0 pour que le programme fonctionne!
 ---
 
 ## 🔧 Installation (méthode recommandée pour développeurs)
