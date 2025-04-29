@@ -7,6 +7,7 @@ Cette application permet aux étudiants de s'entraîner à l'examen oral de l'IE
 L'outil utilise la reconnaissance vocale de Whisper pour transcrire les réponses et propose des voix personnalisées via edge-tts, permettant à l'utilisateur de choisir différents accents et voix (homme, femme).
 
 > ⚠️ Il est important d'utiliser la version de python 3.10.0 pour que le programme fonctionne!
+
 ---
 
 ## 🔧 Installation (méthode recommandée pour développeurs)
@@ -15,23 +16,23 @@ L'outil utilise la reconnaissance vocale de Whisper pour transcrire les réponse
 
 Clonez le repo ou téléchargez les fichiers manuellement et placez-les dans un dossier sur votre PC.
 
+---
+
 ### 2. Télécharger et ajouter **FFmpeg**
 
-Téléchargez FFmpeg ici :  
-🔗 https://www.ffmpeg.org/download.html
-
-Décompressez le dossier et placez-le **dans le dossier du projet**, avec le nom :
-
+Ouvrez PowerShell en mode adminstrateur et téléchargez **ffmpeg release essentials** avec la commande suivante :
 ```
-ffmpeg-7.1.1
+choco install ffmpeg
 ```
+FFmpeg est un outil en ligne de commande utilisé pour l'encodage, le décodage et la conversion de fichiers audio/vidéo.
 
-> ⚠️ Nécessaire pour manipuler les fichiers audio.
+> ⚠️ FFmpeg est requis pour lire, convertir et manipuler les fichiers audio dans le projet (notamment via pydub).
+
+> ℹ️ Redémarrez PowerShell si la commande ffmpeg n’est pas reconnue après l’installation.
 
 ---
 
 ### 3. Activer l'environnement virtuel
-
 
 Créez un environnement virtuel avec cette commande :
 
